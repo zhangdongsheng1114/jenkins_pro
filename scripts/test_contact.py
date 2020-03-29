@@ -1,5 +1,3 @@
-
-
 class TestContact:
 
     def test_contact1(self):
